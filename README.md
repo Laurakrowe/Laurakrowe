@@ -1,17 +1,12 @@
-# **AI Solutions Architect**
-### AI Governance · Automation · Spatial & Operational Analytics
-
 This is my public workbench. Pinned repos are prior engagements stripped of client specifics with thinking left intact.
 
-I work across stacks, and I am not picky about tools. I like to create systems that stand with or without me.
-
-### Where I do my best work:
+### What I do:
 - End to end ownership, from discovery through scope, build, launch, and handoff
 - Data modeling, mapping, and integration across financial, CRM, and reporting systems
 - Building and prototyping with AI-assisted development, always incorporating human-in-the-loop workflows
 - Minimizing duplication of effort - reusable work instead of a one-off
 
-### Stack
+### Where I do it: across stacks, and I'n not picky. I like to create systems that stand with or without me.
 - Data & Modeling: SQL, Power BI semantic and dimensional modeling, Python
 - Integration & Automation: Power Automate, Azure Functions, connectors, PowerShell, Git
 - AI & Microsoft 365: Copilot, Copilot Studio, Purview, Entra, Conditional Access
@@ -31,5 +26,3 @@ I work across stacks, and I am not picky about tools. I like to create systems t
 ### Certifications
 
 PL-300 Power BI Data Analyst · Microsoft Applied Skills: Automated Processes · AWS GenAI Developer (in progress) · Esri
-
-LinkedIn: https://www.linkedin.com/in/laurawrowe/
